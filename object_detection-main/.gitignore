@@ -1,0 +1,7 @@
+.idea
+coco_data_set/images
+coco_data_set/annotations
+data_acquisition/data_samples
+coco_data_set/__pycache__
+data_acquisition/__pycache__/
+obj_detection_mask_rcnn/Tensorflow/
